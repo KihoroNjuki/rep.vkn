@@ -1,0 +1,35 @@
+h2 {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    background-color: navy;
+}
+
+li a {
+    text-decoration: none;
+    float: left;
+    padding: 20px;
+    overflow: hidden;
+    display: inline;
+    color: white;
+    font-family: "Gill Sans Ultra Bold";
+}
+
+li a:hover {
+    background-color: cornflowerblue;
+}
+
+li {
+    float: left;
+}
+
+body{
+    background: url("images/download.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
